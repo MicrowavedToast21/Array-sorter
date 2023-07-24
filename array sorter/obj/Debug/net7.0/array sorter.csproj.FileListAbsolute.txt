@@ -1,0 +1,15 @@
+C:\Users\varsa\OneDrive\Escritorio\array sorter\bin\Debug\net7.0\array sorter.exe
+C:\Users\varsa\OneDrive\Escritorio\array sorter\bin\Debug\net7.0\array sorter.deps.json
+C:\Users\varsa\OneDrive\Escritorio\array sorter\bin\Debug\net7.0\array sorter.runtimeconfig.json
+C:\Users\varsa\OneDrive\Escritorio\array sorter\bin\Debug\net7.0\array sorter.dll
+C:\Users\varsa\OneDrive\Escritorio\array sorter\bin\Debug\net7.0\array sorter.pdb
+C:\Users\varsa\OneDrive\Escritorio\array sorter\obj\Debug\net7.0\array sorter.csproj.AssemblyReference.cache
+C:\Users\varsa\OneDrive\Escritorio\array sorter\obj\Debug\net7.0\array sorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varsa\OneDrive\Escritorio\array sorter\obj\Debug\net7.0\array sorter.AssemblyInfoInputs.cache
+C:\Users\varsa\OneDrive\Escritorio\array sorter\obj\Debug\net7.0\array sorter.AssemblyInfo.cs
+C:\Users\varsa\OneDrive\Escritorio\array sorter\obj\Debug\net7.0\array sorter.csproj.CoreCompileInputs.cache
+C:\Users\varsa\OneDrive\Escritorio\array sorter\obj\Debug\net7.0\array sorter.dll
+C:\Users\varsa\OneDrive\Escritorio\array sorter\obj\Debug\net7.0\refint\array sorter.dll
+C:\Users\varsa\OneDrive\Escritorio\array sorter\obj\Debug\net7.0\array sorter.pdb
+C:\Users\varsa\OneDrive\Escritorio\array sorter\obj\Debug\net7.0\array sorter.genruntimeconfig.cache
+C:\Users\varsa\OneDrive\Escritorio\array sorter\obj\Debug\net7.0\ref\array sorter.dll
